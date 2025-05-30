@@ -1,0 +1,4 @@
+D001|Diep    |Red        |2.20|Vong bach kim
+D002|Tuan    |Yellow     |5.20|Vong kim cuong
+C001|Tung    |Brown      |7.20|ribbon Kim
+D003|Truong  |Blue       |2.60|Vong i <3 u
