@@ -1,6 +1,6 @@
 package runtime;
 
-import jdk.nashorn.internal.objects.NativeRegExp;
+//import jdk.nashorn.internal.objects.NativeRegExp;
 
 public class Program {
 
